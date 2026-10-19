@@ -1,0 +1,19 @@
+Microsoft Azure connect now known as Microsoft Entra connect
+- <img width="975" height="576" alt="image" src="https://github.com/user-attachments/assets/4d3c5c9e-9b79-4ee4-8b37-7aebf404649a" />
+- All admin center and select Microsoft Entra
+- <img width="975" height="542" alt="image" src="https://github.com/user-attachments/assets/0f143ca7-7db1-4082-bd72-4d956d0aad39" />
+- Microsoft Entra admin center page select Entra Connect
+- <img width="975" height="721" alt="image" src="https://github.com/user-attachments/assets/3ce1379a-4bd7-445e-9072-af02c5e3e4e5" />
+- Go to manage tab and Download manage from on premises
+- <img width="928" height="664" alt="image" src="https://github.com/user-attachments/assets/37aab2db-4124-4189-8672-d044b415da33" />
+- Installation page, select express settings
+- <img width="944" height="664" alt="image" src="https://github.com/user-attachments/assets/531f355e-a450-4d7f-a6a7-94f42d80cd91" />
+- Write down global admin username that was created on premises 365 account.
+- <img width="935" height="656" alt="image" src="https://github.com/user-attachments/assets/a69610ae-7596-459c-8cc5-519f010d9bf9" />
+- next
+- <img width="954" height="657" alt="image" src="https://github.com/user-attachments/assets/23466e3a-bd44-4e4f-9663-36e1c4d5fd54" />
+- next and install
+- <img width="913" height="670" alt="image" src="https://github.com/user-attachments/assets/603d67a6-2cd7-43ed-a8d5-3f9e3c9c0cad" />
+- <img width="953" height="654" alt="image" src="https://github.com/user-attachments/assets/ee4b8a46-018f-4feb-bc44-520aaae24b4a" />
+- user from on premises active directory migrated to Microsoft Entra ID.
+- <img width="975" height="449" alt="image" src="https://github.com/user-attachments/assets/8e71a94d-2fea-4eae-838b-9af52c2c2fed" />
