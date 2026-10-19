@@ -1,8 +1,7 @@
 WIndows Server Dashboard
 - go to Manage and add Roles and Features
 - <img width="192" height="177" alt="image" src="https://github.com/user-attachments/assets/9b9c63be-84ae-473d-a55c-7ab8b048dd5c" />
-
-<img width="394" height="283" alt="image" src="https://github.com/user-attachments/assets/aeda16ac-5a6f-4412-9eec-dd71a076cf9d" />
+- <img width="394" height="283" alt="image" src="https://github.com/user-attachments/assets/aeda16ac-5a6f-4412-9eec-dd71a076cf9d" />
 Next
 
 <img width="394" height="281" alt="image" src="https://github.com/user-attachments/assets/eacb3fc2-dc9d-4074-9ef4-da108cfdaeeb" />
