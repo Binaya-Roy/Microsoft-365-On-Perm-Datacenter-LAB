@@ -1,0 +1,14 @@
+- <img width="575" height="575" alt="image" src="https://github.com/user-attachments/assets/bd6b4731-3e29-4811-8010-2f8a8cdf4cdc" />
+- go to share point on admin center
+- <img width="575" height="344" alt="image" src="https://github.com/user-attachments/assets/42cc00e9-ea73-41cc-8b7f-e9bdcdc00cd7" />
+- At sharepoint admin center go to active sites and select communication site
+- <img width="575" height="249" alt="image" src="https://github.com/user-attachments/assets/d0f70052-2530-4ed8-bb3d-3d0033f9f6dc" />
+- Open site address URL
+- <img width="575" height="430" alt="image" src="https://github.com/user-attachments/assets/060a4806-d47f-42f1-9aa2-3de68d2270df" />
+- Create document
+- <img width="575" height="165" alt="image" src="https://github.com/user-attachments/assets/d8712b2a-99de-4d3c-b614-366dd4095ee4" />
+- Prepare the document.
+- <img width="575" height="343" alt="image" src="https://github.com/user-attachments/assets/526f75dd-d1de-46f8-ad07-d08c5a2229d6" />
+- Share the document with the particular group
+- <img width="575" height="417" alt="image" src="https://github.com/user-attachments/assets/e2ec33ec-ce38-46f3-a776-487d40541488" />
+- Invitation received by user for shared documents and user able to open the document
